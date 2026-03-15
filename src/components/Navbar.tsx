@@ -50,7 +50,7 @@ const Navbar = () => {
           SK
         </a>
         <a
-          href="mailto:rajeshchittyal21@gmail.com"
+          href="mailto:sameer.developer0001@gmail.com"
           className="navbar-connect"
           data-cursor="disable"
         >
