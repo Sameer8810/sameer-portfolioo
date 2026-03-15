@@ -11,7 +11,6 @@ let smoother: ScrollSmoother | null = null;
 export { smoother };
 
 gsap.registerPlugin(ScrollSmoother, ScrollTrigger);
-export let smoother: ScrollSmoother;
 
 const Navbar = () => {
   useEffect(() => {
